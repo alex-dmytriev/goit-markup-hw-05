@@ -826,8 +826,6 @@ Ad .nav-link:active,
   fill: var(--white);
 }
 
-
-
 .modal-header {
   font-weight: 500;
   font-size: 16px;
